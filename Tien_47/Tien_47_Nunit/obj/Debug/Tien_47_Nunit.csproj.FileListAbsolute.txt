@@ -1,0 +1,9 @@
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.exe.config
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.pdb
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.pdb
