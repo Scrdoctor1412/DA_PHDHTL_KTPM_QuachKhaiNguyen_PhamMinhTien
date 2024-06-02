@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\bin\Debug\soNguyenTo.exe.config
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\bin\Debug\soNguyenTo.exe
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\bin\Debug\soNguyenTo.pdb
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.Form1.resources
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.Properties.Resources.resources
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.exe
+C:\Users\DELL\source\repos\soNguyenTo\soNguyenTo\obj\Debug\soNguyenTo.pdb
