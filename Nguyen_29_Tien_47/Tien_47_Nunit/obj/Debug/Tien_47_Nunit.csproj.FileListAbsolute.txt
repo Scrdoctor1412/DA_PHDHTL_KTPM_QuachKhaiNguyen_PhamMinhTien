@@ -1,0 +1,18 @@
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.exe.config
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.pdb
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.pdb
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.exe.config
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\bin\Debug\Tien_47_Nunit.pdb
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.AssemblyReference.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.Properties.Resources.resources
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.GenerateResource.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.csproj.CoreCompileInputs.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47_Nunit\obj\Debug\Tien_47_Nunit.pdb

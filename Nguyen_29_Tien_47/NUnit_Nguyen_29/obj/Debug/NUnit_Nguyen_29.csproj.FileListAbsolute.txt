@@ -1,0 +1,9 @@
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\bin\Debug\NUnit_Nguyen_29.exe.config
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\bin\Debug\NUnit_Nguyen_29.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\bin\Debug\NUnit_Nguyen_29.pdb
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\obj\Debug\NUnit_Nguyen_29.csproj.AssemblyReference.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\obj\Debug\NUnit_Nguyen_29.Properties.Resources.resources
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\obj\Debug\NUnit_Nguyen_29.csproj.GenerateResource.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\obj\Debug\NUnit_Nguyen_29.csproj.CoreCompileInputs.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\obj\Debug\NUnit_Nguyen_29.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\NUnit_Nguyen_29\obj\Debug\NUnit_Nguyen_29.pdb

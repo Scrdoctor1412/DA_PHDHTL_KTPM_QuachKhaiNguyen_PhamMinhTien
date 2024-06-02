@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tien_47_WebDriver", "Tien_47\Tien_47_WebDriver.csproj", "{BF448107-1D93-40E5-B86B-AEE5EFF127E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tien_47_Nunit", "Tien_47_Nunit\Tien_47_Nunit.csproj", "{7E7AD3E5-DC38-4C29-90E1-5C452A2D7891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSNT", "TestSNT\TestSNT.csproj", "{61DF34DD-E356-4165-A3EA-51684D99A563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDaThuc", "TestDaThuc\TestDaThuc.csproj", "{6590A3C6-8F26-467F-8F84-93FC49E64979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_Nguyen_29", "NUnit_Nguyen_29\NUnit_Nguyen_29.csproj", "{04974953-2D31-4EAB-AE62-557679D0A0B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiaiPtTester", "GiaiPtTester\GiaiPtTester.csproj", "{7739358C-468F-483C-9CD5-3A7A932CF772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriver_Nguyen_29", "WebDriver_Nguyen_29\WebDriver_Nguyen_29.csproj", "{F0DCD6F9-1903-4741-922C-DB8CD6AC6307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF448107-1D93-40E5-B86B-AEE5EFF127E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF448107-1D93-40E5-B86B-AEE5EFF127E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF448107-1D93-40E5-B86B-AEE5EFF127E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF448107-1D93-40E5-B86B-AEE5EFF127E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7AD3E5-DC38-4C29-90E1-5C452A2D7891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7AD3E5-DC38-4C29-90E1-5C452A2D7891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7AD3E5-DC38-4C29-90E1-5C452A2D7891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7AD3E5-DC38-4C29-90E1-5C452A2D7891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DF34DD-E356-4165-A3EA-51684D99A563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DF34DD-E356-4165-A3EA-51684D99A563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DF34DD-E356-4165-A3EA-51684D99A563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DF34DD-E356-4165-A3EA-51684D99A563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6590A3C6-8F26-467F-8F84-93FC49E64979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6590A3C6-8F26-467F-8F84-93FC49E64979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6590A3C6-8F26-467F-8F84-93FC49E64979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6590A3C6-8F26-467F-8F84-93FC49E64979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04974953-2D31-4EAB-AE62-557679D0A0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04974953-2D31-4EAB-AE62-557679D0A0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04974953-2D31-4EAB-AE62-557679D0A0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04974953-2D31-4EAB-AE62-557679D0A0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7739358C-468F-483C-9CD5-3A7A932CF772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7739358C-468F-483C-9CD5-3A7A932CF772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7739358C-468F-483C-9CD5-3A7A932CF772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7739358C-468F-483C-9CD5-3A7A932CF772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0DCD6F9-1903-4741-922C-DB8CD6AC6307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DCD6F9-1903-4741-922C-DB8CD6AC6307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DCD6F9-1903-4741-922C-DB8CD6AC6307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DCD6F9-1903-4741-922C-DB8CD6AC6307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4A086C-0F49-4AA8-BF5B-9D27159B1A58}
+	EndGlobalSection
+EndGlobal

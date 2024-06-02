@@ -1,0 +1,36 @@
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\Tien_47.exe.config
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\Tien_47.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\Tien_47.pdb
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\WebDriver.dll
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\Tien_47\Tien_47\bin\Debug\WebDriver.xml
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47_WebDriver.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47.Form1.resources
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47_WebDriver.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47_WebDriver.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47_.90F764A9.Up2Date
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47.exe
+C:\Users\DELL\source\repos\Tien_47\Tien_47\obj\Debug\Tien_47.pdb
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\selenium-manager\linux\selenium-manager
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\selenium-manager\macos\selenium-manager
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\Tien_47.exe.config
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\Tien_47.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\Tien_47.pdb
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\Newtonsoft.Json.dll
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\WebDriver.dll
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\Newtonsoft.Json.xml
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\bin\Debug\WebDriver.xml
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47_WebDriver.csproj.AssemblyReference.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47.Form1.resources
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47.Properties.Resources.resources
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47_WebDriver.csproj.GenerateResource.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47_WebDriver.csproj.CoreCompileInputs.cache
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47_.90F764A9.Up2Date
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47.exe
+D:\University\Kiem Thu Phan Mem\New folder (2)\DA_PHDHTL_KTPM_QuachKhaiNguyen_PhamMinhTien\Nguyen_29_Tien_47\Tien_47\obj\Debug\Tien_47.pdb
